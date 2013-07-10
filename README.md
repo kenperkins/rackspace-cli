@@ -1,5 +1,3 @@
-# Rackspace
+# Rackspace CLI
 
-The working repository for the node.js CLI for Rackspace.
-
-[![Build Status](https://travis-ci.org/kenperkins/rackspace-cli.png)](https://travis-ci.org/kenperkins/rackspace-cli)
+This package is deprecated. Please use [pkgcloud](https://github.com/nodejitsu/pkgcloud) for Rackspace with node.js.
